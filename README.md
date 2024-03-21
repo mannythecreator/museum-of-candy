@@ -12,7 +12,6 @@
 ![MOC - web - 4](https://github.com/mannythecreator/museum-of-candy/assets/60325078/b60c3430-9258-481f-a61b-b86ab78007a3)
 
 <h2>Mobile View</h2>
-![MOC - mobile - 4-2](https://github.com/mannythecreator/museum-of-candy/assets/60325078/103cfacb-e898-4733-9464-6da0f48a370e)
 
 ![MOC - mobile - full](https://github.com/mannythecreator/museum-of-candy/assets/60325078/a01a84a4-1cc8-4ac8-9cb6-a49e36dc955b)
 
